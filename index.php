@@ -241,33 +241,31 @@
         <div class="col-lg-6">
           <h3 class="resume-title">Sumary</h3>
           <div class="resume-item pb-0">
-            <h4>Alice Barkley</h4>
-            <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing
-                user-centered digital/print marketing material from initial concept to final, polished deliverable.</em>
+            <h4>SAM-IT</h4>
+            <p><em>From a 3-year experience as a technical technician, 8 years in IT support,<br> and another 4 years as an IT department head.</em>
             </p>
             <p>
             <ul>
-              <li>Portland par 127,Orlando, FL</li>
-              <li>(123) 456-7891</li>
-              <li>alice.barkley@example.com</li>
+              <li>107 Moo 19 Dongmada Maelao Chaingrai Thailand</li>
+              <li>(+66) 087 087 3830</li>
+              <li><a href="mailto:theerapong.khan@gmail.com">theerapong.khan@gmail.com</a></li>
+              <li><a href="mailto:itnfc@northernfoodcomplex.com">itnfc@northernfoodcomplex.com</a></li>
             </ul>
             </p>
           </div>
-
+          
           <h3 class="resume-title">Education</h3>
           <div class="resume-item">
-            <h4>Master of Fine Arts &amp; Graphic Design</h4>
-            <h5>2015 - 2016</h5>
-            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-            <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui
-              ut dignissimos deleniti nerada porti sand markend</p>
+            <h4>Business Administration Program &amp; Business Computer</h4>
+            <h5>2004 - 2008</h5>
+            <p><em>NARESUAN UNIVERSITY</em></p>
+            <p>Studied both business and computer science, with proficiency in programming and using business-related software.</p>
           </div>
           <div class="resume-item">
-            <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-            <h5>2010 - 2014</h5>
-            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-            <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius
-              unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila
+            <h4>PHAYALAW WITTHAYAKOM SCHOOL  &amp; Science - Mathematics</h4>
+            <h5>1999 - 2004</h5>
+            <p><em>Secondary education</em></p>
+            <p>Participated in school activities and served as a representative in music and sports competitions.
             </p>
           </div>
         </div>
