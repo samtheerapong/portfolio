@@ -49,6 +49,9 @@
   <!-- ======= Portfolio Section ======= -->
   <?= include("portfolio.php"); ?>
 
+  <!-- ======= Portfolio Section ======= -->
+  <?= include("statistics.php"); ?>
+
   <!-- ======= Contact Section ======= -->
   <?= include("contact.php"); ?>
 
