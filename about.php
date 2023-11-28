@@ -13,7 +13,7 @@
                 <img src="assets/img/me.jpg" class="img-fluid" alt="">
             </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-                <h3>IT Support &amp; Developer</h3>
+                <h3>Head IT department &amp; Developer</h3>
                 <p class="fst-italic">
                     Having accumulated extensive experience in the field of information technology over the years, I have
                     leveraged my knowledge to enhance the efficiency of work processes both on the front and back ends. By
@@ -159,5 +159,89 @@
         </div>
 
     </div><!-- End Skills -->
+
+    <!-- ======= Interests ======= -->
+    <div class="interests container">
+
+      <div class="section-title">
+        <h2>Interests</h2>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-3 col-md-4">
+          <div class="icon-box">
+            <i class="fa-brands fa-php" style="color: #ffbb2c;"></i>
+            <h3>PHP</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+          <div class="icon-box">
+            <i class="ri-javascript-line" style="color: #5578ff;"></i>
+            <h3>Java Script</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+          <div class="icon-box">
+            <i class="ri-reactjs-line" style="color: #e80368;"></i>
+            <h3>Reactjs</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+          <div class="icon-box">
+            <i class="ri-html5-line" style="color: #e361ff;"></i>
+            <h3>HTML 5</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-database-2-line" style="color: #47aeff;"></i>
+            <h3>Database</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="fa-brands fa-uncharted" style="color: #ffa76e;"></i>
+            <h3>ERP</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="fa-solid fa-certificate" style="color: #11dbcf;"></i>
+            <h3>Certificate</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="fa-solid fa-server" style="color: #4233ff;"></i>
+            <h3>Server System</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="fa-solid fa-network-wired" style="color: #b2904f;"></i>
+            <h3>Network System</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="fa-solid fa-wifi" style="color: #b20969;"></i>
+            <h3>Wi-Fi System</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="fa-solid fa-cloud" style="color: #ff5828;"></i>
+            <h3>Cloud System</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="fa-solid fa-shield-halved" style="color: #29cc61;"></i>
+            <h3>Cybersecurity</h3>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- End Interests -->
 
 </section><!-- End About Section -->
