@@ -46,10 +46,6 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/ltos/ltos1.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
                   <img src="../assets/img/portfolio/ltos/ltos2.jpg" alt="">
                 </div>
 
@@ -65,10 +61,7 @@
                   <img src="../assets/img/portfolio/ltos/ltos5.jpg" alt="">
                 </div>
 
-                <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/ltos/ltos6.jpg" alt="">
-                </div>
-
+               
               </div>
               <div class="swiper-pagination"></div>
             </div>

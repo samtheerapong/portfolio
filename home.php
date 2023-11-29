@@ -3,17 +3,17 @@
 
     <h1><a href="index.php">Mr. Theerapong Khanta</a></h1>
 
-    <h2>I'm a position <span>Head IT department</span> NFC Chiangrai</h2>
+    <h2>I'm a position <span>Head IT department</span> NFC Factory</h2>
 
     <nav id="navbar" class="navbar">
       <ul>
         <li><a class="nav-link active" href="#header">Home</a></li>
         <li><a class="nav-link" href="#about">About</a></li>
         <li><a class="nav-link" href="#resume">Resume</a></li>
+        <li><a class="nav-link" href="#timeline">Timeline</a></li>
         <li><a class="nav-link" href="#services">Services</a></li>
         <li><a class="nav-link" href="#portfolio">Portfolio</a></li>
-        <!-- <li><a class="nav-link" href="#statistics">Statistics</a></li> -->
-        <li><a class="nav-link" href="#contact">Contact</a></li>
+        <!-- <li><a class="nav-link" href="#contact">Contact</a></li> -->
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
     </nav><!-- .navbar -->

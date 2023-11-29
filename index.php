@@ -36,12 +36,15 @@
 
   <!-- ======= Header ======= -->
   <?= include("home.php"); ?>
- 
+
   <!-- ======= About Section ======= -->
   <?= include("about.php"); ?>
 
   <!-- ======= Resume Section ======= -->
   <?= include("resume.php"); ?>
+
+  <!-- ======= timeline Section ======= -->
+  <?= include("timeline.php"); ?>
 
   <!-- ======= Services Section ======= -->
   <?= include("services.php"); ?>
