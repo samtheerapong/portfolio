@@ -7,11 +7,13 @@
         </div>
 
         <div class="row">
+
+            <!-------------------------- Sec 1---------------------------->
             <div class="col-lg-6">
                 <h3 class="resume-title">ประสบการณ์ก่อนเริ่มงาน</h3>
                 <div class="resume-item">
                     <h4>1999</h4>
-                    <p><em>เริ่มเรียนศึกษา ระดับมัทยมศึกษา</em></p>
+                    <p><em>เริ่มเรียนศึกษา ระดับมัธยมศึกษา</em></p>
                     <!-- <img src="assets/img/logo/plw.jpg" class="testimonial-img" alt="" style="width: 50px;"> -->
                     <p>
                         <li>โรงเรียน พญาลอวิทยาคม จ.พะเยา</li>
@@ -33,7 +35,7 @@
                     <p><em>เริ่มฝึกงาน</em></p>
                     <p>
                         <li>โรงเรียน ประชาบำรุง จ.พะเยา</li>
-                        <li>ตำแหน่ง ครูคอมพิวเตอร์</li>
+                        <li>ตำแหน่ง นักศึกษาฝึกสอนคอมพิวเตอร์</li>
                     </p>
                 </div>
 
@@ -47,9 +49,10 @@
                     <p><em>เริ่มทำงาน บริษัทแรก</em></p>
                     <p>
                         <li>บริษัท สปีดพลัสเทคโนโลยีแอนด์ซัพพลาย จำกัด จ.พระนครศรีอยุธยา</li>
-                    <p><em>ธุรกิจขายสินค้าไอที MikroTik ตัวแทนประเทศไทย</em></p>
+                    <p><em>ธุรกิจขายสินค้าไอที (MikroTik ตัวแทนประเทศไทย)</em></p>
                     <li>ตำแหน่ง Technical Support</li>
                     <p>ลักษณะงาน : ซ่อมบำรุงอุปกรณ์ไอที และ แนะนำสินค้าหน้าร้าน</p>
+                    <p><u>ผลงานเด่น</u> : เป็นพนักงานดีเด่นด้าน Services</p>
                     </p>
                 </div>
 
@@ -67,8 +70,12 @@
                     <li>Cyberoam (SOPHOS) Firewall UTM.</li>
                     <li>Network Infrastructure Design.</li>
                     <li>Configuration And Install. (Hikvision NVR and IP Camera) For 300+ channel</li>
-                    <li>ทีมงาน IT 7 คน สนับสนุนผู้ใช้ 500+ คน</li>
+                    <li>ทีมงาน IT 8 คน สนับสนุนผู้ใช้ 500+ คน</li>
                     <li>สนับสนุนบริษัทในเครือ 3 บริษัท Hicreate , Histeel , siamCBB</li>
+                    <p><u>ผลงานเด่น</u> :
+                        <li>ออกแบบระบบ Infrastructure ของการสร้างศูนย์อุตสาหกรรมก่อสร้าง บ.ไฮกรีต</li>
+                        <li>ออกแบบระบบ ห้อง Server ให้เป็นมาตรฐานสากล ในงบประมาณ 6 ล้านบาท</li>
+                        <li>พัฒนาเว็บไซต์บริษัท <a href="http://www.hicretethai.com" target="_blank">www.hicretethai.com</a></li>
                     </p>
                 </div>
 
@@ -85,8 +92,13 @@
                     <li>SOPHOS XG Firewall UTM.</li>
                     <li>Network Infrastructure Design.</li>
                     <li>Configuration And Install. (Hikvision NVR and IP Camera) For 200+ channel</li>
-                    <li>ทีมงาน IT 7 คน สนับสนุนผู้ใช้ 300+ คน</li>
+                    <li>ทีมงาน IT 2 คน สนับสนุนผู้ใช้ 300+ คน</li>
                     <li>สนับสนุนบริษัทในเครือ 5 บริษัท</li>
+                    <p><u>ผลงานเด่น</u> :
+                        <li>ลดค่าใช้จ่ายด้าน Link VPN Site to Site ลง 300,000 บาท/ปี</li>
+                        <li>ปรับปรุงระบบ Network และ Fiber Optic ระหว่างสาขา ให้เสถียรขึ้น</li>
+                        <li>ออกแบบระบบ Infrastructure ของการสร้างอาคารสำนักงานใหม่</li>
+                        <li>พัฒนาเว็บไซต์บริษัท <a href="https://www.crl.co.th" target="_blank">www.crl.co.th</a></li>
                     </p>
                 </div>
 
@@ -103,19 +115,20 @@
                     <li>Ruijie Security Gateway Firewall UTM.</li>
                     <li>Network Infrastructure Design.</li>
                     <li>Configuration And Install. (Hikvision NVR and IP Camera) For 100+ channel</li>
-                    <li>ทีมงาน IT 7 คน สนับสนุนผู้ใช้ 100+ คน</li>
-                    <li>พัฒนาโปรแกรมใช้งานเฉพาะสำหรับบริษัท</li>
+                    <li>ทีมงาน IT 1 คน สนับสนุนผู้ใช้ 100+ คน</li>
+                    <li>พัฒนา<a href="http://northernfood-complex.com/menu.html" target="_blank"> Applications </a>ใช้งานเฉพาะสำหรับบริษัท </li>
                     </p>
                 </div>
 
             </div>
 
+            <!-------------------------- Sec 2---------------------------->
             <div class="col-lg-6">
-                <h3 class="resume-title">เริ่มทำงาน Northern Food Complex</h3>
+                <h3 class="resume-title">เริ่มทำงาน @NFC</h3>
 
                 <div class="resume-item">
                     <h4>2022 (กรกฎาคม)</small></h4>
-                    <em>เริ่มทำงาน วันที่ 19 กรกฎาคม</em></p>
+                    <span class="text" style="color: #18d26e;" ><em>เริ่มทำงาน วันที่ 19 กรกฎาคม</em></span>
                     <p><em>ศึกษาระบบไอทีภายในองค์กรทั้งหมด</em>
                         <li>ได้รวบรวมข้อมูลไอทีเบื้องต้นบางส่วน</li>
                     </p>
@@ -135,8 +148,8 @@
                     <h4>2022 (สิงหาคม)</small></h4>
                     <p><em>Project ปรับรุงระบบ Network ห้อง Server</em></p>
                     <p>
-                        <li>ประสิทธิภาพการทำงานเพิ่มขึ้น จาก Fast (100 Mbps) เป็น Gigabit (1,000 Mbps)</li>
-                        <li>ประสิทธิภาพ Internet เสถียรขึ้น มี Link สำรองการทำงาน</li>
+                        <li>ประสิทธิภาพ Network จาก Fast (100 Mbps) เป็น Gigabit (1,000 Mbps) เพิ่มขึ้น 10 เท่า</li>
+                        <li>ประสิทธิภาพ Internet เสถียรขึ้น มี Link สำรองการทำงาน (AIS และ CAT)</li>
                         <li>ประสิทธิภาพ MRP, Data-Server ดึงข้อมูลได้รวดเร็วกว่าเดิม</li>
                     </p>
                 </div>
@@ -165,47 +178,125 @@
                     <h4>2022 (พฤศจิกายน)</small></h4>
                     <p><em>ระบบ Document Control</em></p>
                     <p>
-                        <li>เกิดปญหากับระบบ Document Control ไม่มาสารถกู้คืนระบบได้</li>
-                    <li>จัดหา Software เพื่อใช้งานทดแทน ของ Skytizens เสนอราคาเริ่มต้น 600,000 บาท</li>
-                    <li>จากการวิเคราะห์ การใช้งานเบื้องต้นตอบสนองได้ไม่ดี จึงหันมาพัฒนาขึ้นเอง</li>
+                        <li>เกิดปัญหากับระบบ Document Control ไม่สามารถกู้คืนระบบได้</li>
+                        <li>ได้จัดหา Software เพื่อใช้งานทดแทนของ Skytizens เสนอราคาเริ่มต้น 600,000 บาท</li>
+                        <li>การใช้งานเบื้องต้นตอบสนองได้ไม่ดี จึงเกิด Project พัฒนาขึ้นเองเพื่อประหยัด Cost</li>
                     </p>
                 </div>
 
                 <div class="resume-item">
-                    <h4>2022 (กรกฎาคม)</small></h4>
-                    <p><em>เริ่มทำงาน วันที่ 19 กรกฎาคม</em></p>
+                    <h4>2022 (ธันวาคม)</small></h4>
+                    <p><em>เริ่ม Project Application Development</em></p>
                     <p>
-                        <li>บริษัท สปีดพลัสเทคโนโลยีแอนด์ซัพพลาย จำกัด จ.พระนครศรีอยุธยา</li>
-                    <p><em>ธุรกิจขายสินค้าไอที MikroTik ตัวแทนประเทศไทย</em></p>
-                    <li>ตำแหน่ง Technical Support</li>
-                    <p>ลักษณะงาน : ซ่อมบำรุงอุปกรณ์ไอที และ แนะนำสินค้าหน้าร้าน</p>
+                        <li>1. <a href="http://northernfood-complex.com/app-dcms/web/" target="_blank">Document Control</a> - QC</li>
+                        <li>2. <a href="http://northernfood-complex.com/en-stock/" target="_blank">Engineering Stock</a> - Engineer</li>
+                        <li>3. <a href="https://docs.google.com/forms/d/e/1FAIpQLSczM30_zu8fMoNXi1n6XLsDICuv34guiVc86TTN_MScxWdK0w/viewform" target="_blank">NCR</a> - QC</li>
+                        <li>4. <a href="http://northernfood-complex.com/it-support" target="_blank">IT Support</a> - IT</li>
                     </p>
-                </div>
+                    <hr />
 
-
-                <div class="resume-item">
-                    <h4>IT Help Desk | IT Support | System Admin</h4>
-                    <h5>2012 - 2020</h5>
-                    <p><em>HICRETE PRODUCTS AND TECHNOLOGY (Autthaya)</em></p>
-                    <p>
-                    <ul>
-                        <li>Manage information systems, including servers, networks, CCTV, and IPPhone</li>
-                        <li>Provide IT support for 500+ users.</li>
-                        <li>Plan and implement preventive maintenance operations.</li>
-                    </ul>
-                    </p>
                 </div>
 
                 <div class="resume-item">
-                    <h4>Technical Support</h4>
-                    <h5>2009 - 2012</h5>
-                    <p><em>SPEEDPLUS TECHNOLOGY SUPPLY "MikroTik" (Autthaya)</em></p>
-                    <p>
-                    <ul>
-                        <li>Sell products at the storefront and provide customer support.</li>
-                    </ul>
+                    <h4>2023 (มกราคม)</small></h4>
+                    <p><em>Project Firewall And Security Gateway</em>
+                        <li>ปรับปรุงโดยใช้งาน Security Gateway มาใช้เพื่อป้องกันการโจมตีจากภายนอก</li>
+                        <li>สามารถใช้งานระบบ VPN เชื่อมต่อใช้งาน Server จากภายนอกบริษัทได้</li>
+                    </p>
+                    <p><em>Project Network Core Switch</em>
+                        <li>เพิ่มประสิทธิภาพโดยเปลี่ยนจาก Unmanage Switch มาใช้ Manage Switch แทน</li>
+                        <li>สามารถดูสถานะระบบ Network ได้แบบ <a href="https://cloud-as.ruijienetworks.com/macc5/adminIntl/#/" target="_blank"> Online Realtime</a></li>
                     </p>
                 </div>
+
+                <div class="resume-item">
+                    <h4>2023 (กุมภาพันธ์)</small></h4>
+                    <p><em>นำระบบ Cloud Server มาใช้งาน ใช้บริการจาก CloudHM</em>
+                        <li>Domain : <a href="http://northernfood-complex.com/menu.html" target="_blank">www.northernfood-complex.com</a></li>
+                    </p>
+                    <p><em>ติดตั้งระบบกล้องวงจรปิด</em>
+                        <li>อาคารสำนักงานวิศวกรรมและบอยเลอร์ 4 จุด</li>
+                        <li>Fiberoptic จาก Server Center ไปยัง EN</li>
+                    </p>
+                </div>
+
+                <div class="resume-item">
+                    <h4>2023 (มีนาคม)</small></h4>
+                    <p><em>Project Upgrade Network</em>
+                        <li>Fiberoptic จาก Server Center ไปยัง B2</li>
+                        <li>Fiberoptic จาก Server Center ไปยัง B3</li>
+                    </p>
+                </div>
+
+                <div class="resume-item">
+                    <h4>2023 (เมษายน)</small></h4>
+                    <p><em>Project Upgrade Network</em>
+                        <li>Fiberoptic จาก Server Center ไปยัง B4</li>
+                        <li>Fiberoptic จาก Server Center ไปยัง B5</li>
+                    </p>
+                </div>
+
+                <div class="resume-item">
+                    <h4>2023 (พฤษภาคม)</small></h4>
+                    <p><em>Project Upgrade Computer</em>
+                        <li>เพิ่มประสิทธิภาพคอมพิวเตอร์โดยการอัพเกรดอุปกรณ์ภายใน</li>
+                    </p>
+                </div>
+
+                <div class="resume-item">
+                    <h4>2023 (มิถุนายน)</small></h4>
+                    <p><em>Project Uninterruptible Power Supply (UPS)</em>
+                        <li>ปกป้องอุปกรณ์คอมพิวเตอร์ด้วยและข้อมูลด้วย UPS กรณีไฟดับ</li>
+                    </p>
+                </div>
+
+                <div class="resume-item">
+                    <h4>2023 (กรกฎาคม)</small></h4>
+                    <p><em>Project Upgrade License</em>
+                        <li>จัดการ License ให้ถูกต้องตามกฎหมาย</li>
+                    </p>
+                </div>
+
+                <div class="resume-item">
+                    <h4>2023 (สิงหาคม)</small></h4>
+                    <p><em>Project Application Development</em></p>
+                        <li>สร้าง Application สำหรับจัดการเอกสารใบรับรอง <a href="http://northernfood-complex.com/docs/backend/web/site/index" target="_blank">(DOS)</a> - คุณพี</li>
+                    </p>
+                </div>
+
+                <div class="resume-item">
+                    <h4>2023 (กันยายน)</small></h4>
+                    <p><em>Project Application Development</em></p>
+                        <li>สร้าง Application สำหรับแจ้งซ่อม <a href="http://www.northernfood-complex.com/nfc-app/web/engineer/request-repair/index" target="_blank">(DEMO)</a> - คุณโอ๋</li>
+                    </p>
+                </div>
+
+                <div class="resume-item">
+                    <h4>2023 (ตุลาคม)</small></h4>
+                    <p><em>Project Application Development</em></p>
+                        <li>สร้าง Application สำหรับฝ่ายขายในประเทศ <a href="http://www.northernfood-complex.com/nfc-app/web/salers/saleorder/index" target="_blank">(DEMO)</a> - คุณเอก</li>
+                    </p>
+                </div>
+
+                <div class="resume-item">
+                    <h4>2023 (พฤศจิกายน)</small></h4>
+                    <p><em>Project Application Development</em></p>
+                        <li>สร้าง Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ <a href="http://www.northernfood-complex.com/nfc-app/web/sauce/moromi/index" target="_blank">(DEMO)</a> - คุณหลิว</li>
+                        <li>สร้าง Application สำหรับฝ่ายบันทึกคุณภาพซีอิ้วดิบ <a href="http://www.northernfood-complex.com/nfc-app/web/sauce/raw-sauce/index" target="_blank">(DEMO)</a> - คุณหลิว</li>
+                    </p>
+                </div>
+
+                <div class="resume-item">
+                    <h4>2023 (ธันวาคม)</small></h4>
+                    <p><em>Project Application Development</em></p>
+                        <li>พัฒนาระบบต่อเนื่องของ Project ทั้งหมด</li>
+                    </p>
+                    <p><em>Project Plan 2024</em></p>
+                        <li>วางแผนระบบ และงบประมาณด้านไอที ปี 2567</li>
+                    </p>
+                    <hr/>
+                </div>
+
             </div>
         </div>
 
