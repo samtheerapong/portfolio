@@ -128,15 +128,15 @@
 
                 <div class="resume-item">
                     <h4>2022 (กรกฎาคม)</small></h4>
-                    <span class="text" style="color: #18d26e;" ><em>เริ่มทำงาน วันที่ 19 กรกฎาคม</em></span>
+                    <span class="text" style="color: yellow;" ><em>...เริ่มทำงาน วันที่ 19 กรกฎาคม</em></span>
                     <p><em>ศึกษาระบบไอทีภายในองค์กรทั้งหมด</em>
-                        <li>ได้รวบรวมข้อมูลไอทีเบื้องต้นบางส่วน</li>
+                        <li>เนื่องจากข้อมูลเดิมไม่มีจึงได้รวบรวมข้อมูลไอทีเบื้องต้นบางส่วน</li>
                     </p>
                 </div>
 
                 <div class="resume-item">
                     <h4>2022 (กรกฎาคม)</small></h4>
-                    <p><em>Project ปรับปรุงระบบห้องประชุม</em>
+                    <p><em>Mini Project ปรับปรุงระบบห้องประชุม</em>
                         <li>การประชุมออนไลน์ชัดเจนขึ้นกว่าเดิม</li>
                     </p>
                     <p><em>ศึกษาระบบไอทีภายในองค์กรทั้งหมด</em>
@@ -239,8 +239,9 @@
                 <div class="resume-item">
                     <h4>2023 (พฤษภาคม)</small></h4>
                     <p><em>Project Upgrade Computer</em>
-                        <li>เพิ่มประสิทธิภาพคอมพิวเตอร์โดยการอัพเกรดอุปกรณ์ภายใน</li>
-                    </p>
+                    <li>เพิ่มประสิทธิภาพคอมพิวเตอร์โดยการอัพเกรดอุปกรณ์ภายใน</li>
+                </p>
+                <p><em>ได้รับแต่งตั้งเป็นคณะกรรมการ ค.ป.อ ของบริษัท</em></p>
                 </div>
 
                 <div class="resume-item">
@@ -276,6 +277,9 @@
                     <p><em>Project Application Development</em></p>
                         <li>สร้าง Application สำหรับฝ่ายขายในประเทศ <a href="http://www.northernfood-complex.com/nfc-app/web/salers/saleorder/index" target="_blank">(DEMO)</a> - คุณเอก</li>
                     </p>
+                    <p><em>ผ่านการอบรม จป.หัวหน้างาน</em><br>
+                    <em>ผ่านการอบรม ISO 22000:2018 Requirement</em> <br>
+                    <em>ผ่านการอบรม ISO 22000:2018 Internal Audit</em></p>
                 </div>
 
                 <div class="resume-item">
