@@ -202,6 +202,203 @@
                 </div>
             </div>
 
+            <!-- web -->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/en.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Engineering Stock</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/en.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/dar.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Document Control</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/dar.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/dcert.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Ducument ISO (DOS)</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/dcert.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/ncr.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>NCR</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/ncr.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Server Monitor</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/services/svm.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
     </div>

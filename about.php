@@ -87,7 +87,7 @@
         <div class="count-box">
           <i class="bi bi-award"></i>
           <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
-          <p>ใบรับรอง</p>
+          <p>Certificate</p>
         </div>
       </div>
 
@@ -99,7 +99,7 @@
   <div class="skills container">
 
     <div class="section-title">
-      <h2>Skills</h2>
+      <h2>Abilities</h2>
     </div>
 
     <div class="row skills-content">
@@ -168,7 +168,7 @@
   <div class="interests container">
 
     <div class="section-title">
-      <h2>Interests</h2>
+      <h2>Skills</h2>
     </div>
 
     <div class="row">
