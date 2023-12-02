@@ -301,17 +301,32 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/web/salers/02.png" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/web/salers/03.png" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Application สำหรับฝ่ายขายในประเทศ</h4>
                         <p>Web Application</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/web/salers/02.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Certificate 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details/salers.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Ducument ISO (DOS)"><i class="bx bx-link"></i></a>
+                            <a href="assets/img/portfolio/web/salers/02.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Application สำหรับฝ่ายขายในประเทศ"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details/salers.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Application สำหรับฝ่ายขายในประเทศ"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/web/moromi/01.png" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/portfolio/web/moromi/01.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details/moromi.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ"><i class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
 
         </div>
 </section><!-- End Portfolio Section -->

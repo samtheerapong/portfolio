@@ -49,29 +49,25 @@
         <div class="row">
 
           <div class="col-lg-8">
-            <h2 class="portfolio-title">Application สำหรับฝ่ายขายในประเทศ 📌  salers</h2>
+            <h2 class="portfolio-title"> Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ 📌  Support</h2>
 
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
 
               <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/web/salers/01.png" alt="">
+                  <img src="../assets/img/portfolio/web/moromi/01.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/web/salers/02.png" alt="">
+                  <img src="../assets/img/portfolio/web/moromi/02.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/web/salers/03.png" alt="">
+                  <img src="../assets/img/portfolio/web/moromi/03.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/web/salers/04.png" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/web/salers/05.png" alt="">
+                  <img src="../assets/img/portfolio/web/moromi/04.png" alt="">
                 </div>
 
                
@@ -84,11 +80,11 @@
           <div class="col-lg-4 portfolio-info">
             <h3>Information</h3>
             <ul>
-              <li><strong>Name</strong> : Application สำหรับฝ่ายขายในประเทศ </li>
+              <li><strong>Name</strong> : Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ </li>
               <!-- <li><strong>Client</strong>: THEERAPONG KHANTA/li> -->
               <li><strong>Status</strong> : อยู่ในขั้นตอนการพัฒนา</li>
               <li><strong>Date</strong> : 2023</li>
-              <li><strong>Details </strong> : ระบบสำหรับจัดการ บันทึกการขายของฝ่ายขายในประเทศ</li>
+              <li><strong>Details </strong> : ระบบสำหรับจัดการ บันทึกคุณภาพคุณภาพโมโรมิ</li>
             </ul>
 
            
