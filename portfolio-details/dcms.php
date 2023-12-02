@@ -26,7 +26,7 @@
 
   <!-- Template Main CSS File -->
   <link href="../assets/css/style.css" rel="stylesheet">
- 
+
   <style>
     .swiper-slide img {
       height: 500px;
@@ -35,7 +35,7 @@
       /* object-fit: contain; */
     }
   </style>
-  
+
 </head>
 
 <body>
@@ -49,28 +49,36 @@
         <div class="row">
 
           <div class="col-lg-8">
-            <h2 class="portfolio-title">LTOS 📌  CHIANG MAI</h2>
+            <h2 class="portfolio-title">Document Control 📌 QA</h2>
 
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/ltos/ltos2.jpg" alt="">
+                  <img src="../assets/img/portfolio/web/dcms/01.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/ltos/ltos3.jpg" alt="">
+                  <img src="../assets/img/portfolio/web/dcms/02.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/ltos/ltos4.jpg" alt="">
+                  <img src="../assets/img/portfolio/web/dcms/03.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/ltos/ltos5.jpg" alt="">
+                  <img src="../assets/img/portfolio/web/dcms/04.png" alt="">
                 </div>
 
-               
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/web/dcms/05.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/web/dcms/06.png" alt="">
+                </div>
+
+
               </div>
               <div class="swiper-pagination"></div>
             </div>
@@ -80,13 +88,13 @@
           <div class="col-lg-4 portfolio-info">
             <h3>Information</h3>
             <ul>
-              <li><strong>Name</strong>: LINK TOTAL OUTDOOR SOLUTION</li>
+              <li><strong>Name</strong> : Document Control</li>
               <!-- <li><strong>Client</strong>: THEERAPONG KHANTA/li> -->
-              <li><strong>Date</strong>: 2021</li>
-              <li><strong>URL</strong>: <a href="#">https://interlink.co.th/</a></li>
+              <li><strong>Date</strong> : 2022</li>
+              <li><strong>Details</strong> : ระบบสำหรับจัดการเอกสาร ควบคุมจัดการ version ของเอกสาร</li>
             </ul>
 
-           
+
           </div>
 
         </div>
@@ -97,7 +105,7 @@
   </main><!-- End #main -->
 
   <div class="credits">
- 
+
   </div>
 
   <!-- Vendor JS Files -->

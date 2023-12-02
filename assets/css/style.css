@@ -816,7 +816,13 @@ section .container {
   margin-right: 0;
 }
 
-.portfolio .portfolio-wrap {
+.portfolio .portfolio-wrap img {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.portfolio .portfolio-wrap i {
   transition: 0.3s;
   position: relative;
   overflow: hidden;

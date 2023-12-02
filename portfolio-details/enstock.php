@@ -49,25 +49,29 @@
         <div class="row">
 
           <div class="col-lg-8">
-            <h2 class="portfolio-title">LTOS 📌  CHIANG MAI</h2>
+            <h2 class="portfolio-title">Engineering Stock 📌  EN</h2>
 
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
 
-                <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/ltos/ltos2.jpg" alt="">
+              <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/web/enstock/01.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/ltos/ltos3.jpg" alt="">
+                  <img src="../assets/img/portfolio/web/enstock/02.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/ltos/ltos4.jpg" alt="">
+                  <img src="../assets/img/portfolio/web/enstock/03.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/ltos/ltos5.jpg" alt="">
+                  <img src="../assets/img/portfolio/web/enstock/04.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/web/enstock/05.png" alt="">
                 </div>
 
                
@@ -80,10 +84,10 @@
           <div class="col-lg-4 portfolio-info">
             <h3>Information</h3>
             <ul>
-              <li><strong>Name</strong>: LINK TOTAL OUTDOOR SOLUTION</li>
+              <li><strong>Name</strong> : Engineering Stock</li>
               <!-- <li><strong>Client</strong>: THEERAPONG KHANTA/li> -->
-              <li><strong>Date</strong>: 2021</li>
-              <li><strong>URL</strong>: <a href="#">https://interlink.co.th/</a></li>
+              <li><strong>Date</strong> : 2022</li>
+              <li><strong>Details </strong> : ระบบสำหรับจัดการ การเบิกอะไหล่ของแผนกวิศวกรรม</li>
             </ul>
 
            
