@@ -62,6 +62,8 @@
     Copyright <a href="#">SAM IT</a>
   </div>
 
+   <!-- firebase JS Files -->
+  <script src="assets/js/firebase.js" type="module"></script>
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

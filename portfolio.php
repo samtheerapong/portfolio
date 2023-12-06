@@ -11,7 +11,7 @@
                 <ul id="portfolio-flters">
                     <li data-filter="*" class="filter-active">All</li>
                     <li data-filter=".filter-iso">ISO</li>
-                    <li data-filter=".filter-network">Network</li>
+                    <li data-filter=".filter-network">Link</li>
                     <li data-filter=".filter-web">Web</li>
                     <li data-filter=".filter-other">Other</li>
                 </ul>
@@ -259,7 +259,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-other">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                 <div class="portfolio-wrap">
                     <img src="assets/img/services/ncr.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
@@ -272,7 +272,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-other">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                 <div class="portfolio-wrap">
                     <img src="assets/img/services/svm.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
@@ -317,11 +317,25 @@
                 <div class="portfolio-wrap">
                     <img src="assets/img/portfolio/web/moromi/01.png" class="img-fluid" alt="">
                     <div class="portfolio-info">
-                        <h4>Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ</h4>
+                        <h4>Application สำหรับบันทึกคุณภาพโมโรมิ</h4>
                         <p>Web Application</p>
                         <div class="portfolio-links">
                             <a href="assets/img/portfolio/web/moromi/01.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details/moromi.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ"><i class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/web/sauce/01.png" class="img-fluid" alt="">
+                    <div class="portfolio-info">
+                        <h4>Application สำหรับบันทึกคุณภาพซีอิ้วดิบ</h4>
+                        <p>Web Application</p>
+                        <div class="portfolio-links">
+                            <a href="assets/img/portfolio/web/sauce/01.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Application สำหรับบันทึกคุณภาพซีอิ้วดิบ"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details/sauce.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Application สำหรับบันทึกคุณภาพซีอิ้วดิบ"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
                 </div>

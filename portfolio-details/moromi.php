@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Portfolio Details - Personal Bootstrap Template</title>
+  <title>Portfolio Details</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -49,7 +49,7 @@
         <div class="row">
 
           <div class="col-lg-8">
-            <h2 class="portfolio-title"> Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ 📌  Support</h2>
+            <h2 class="portfolio-title"> Application สำหรับบันทึกคุณภาพโมโรมิ 📌  Support</h2>
 
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
@@ -80,7 +80,7 @@
           <div class="col-lg-4 portfolio-info">
             <h3>Information</h3>
             <ul>
-              <li><strong>Name</strong> : Application สำหรับฝ่ายบันทึกคุณภาพโมโรมิ </li>
+              <li><strong>Name</strong> : Application สำหรับบันทึกคุณภาพโมโรมิ </li>
               <!-- <li><strong>Client</strong>: THEERAPONG KHANTA/li> -->
               <li><strong>Status</strong> : อยู่ในขั้นตอนการพัฒนา</li>
               <li><strong>Date</strong> : 2023</li>

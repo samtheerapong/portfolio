@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Portfolio Details - Personal Bootstrap Template</title>
+  <title>Portfolio Details</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -26,7 +26,14 @@
 
   <!-- Template Main CSS File -->
   <link href="../assets/css/style.css" rel="stylesheet">
-
+  <style>
+    .swiper-slide img {
+      height: 500px;
+      /* Set the desired height */
+      width: 100%;
+      /* object-fit: contain; */
+    }
+  </style>
 </head>
 
 <body>

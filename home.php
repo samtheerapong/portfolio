@@ -21,9 +21,9 @@
     <div class="social-links">
       <!-- <a href="#" class="twitter"><i class="bi bi-twitter"></i></a> -->
       <a href="https://line.me/ti/p/CCJuV2R6i8" class="line" target="_blank"><i class="bi bi-line"></i></a>
-      <a href="https://www.facebook.com/sambcnu" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
-      <a href="https://www.instagram.com/theerapong_khanta/" class="instagram" target="_blank"><i class="bi bi-instagram"></i></a>
-      <a href="https://www.linkedin.com/in/theerapong-khanta-4a35422a1/" class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a>
+      <a href="assets/files/tk.pdf" class="line" target="_blank"><i class="bi bi-file-earmark-person-fill"></i></a>
+      <a href="http://www.northernfood-complex.com/sam" class="line" target="_blank"><i class="bi bi-globe"></i></a>
+      <!-- <a href="https://www.linkedin.com/in/theerapong-khanta-4a35422a1/" class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a> -->
       <!-- <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a> -->
     </div>
 
